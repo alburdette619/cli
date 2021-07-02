@@ -1,4 +1,5 @@
 {
+  "name": "react-native",
   "private": true,
   "workspaces": [
     "packages/*"
